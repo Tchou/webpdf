@@ -1,0 +1,24 @@
+{
+  "name": "webpdf",
+  "version": "0.0.1",
+  "description": "Print A Web Page using chromium's rendering engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tchou/webpdf.git"
+  },
+  "keywords": [
+    "PDF",
+    "HTML5",
+    "printing"
+  ],
+  "author": "Kim Nguyễn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tchou/webpdf/issues"
+  },
+  "homepage": "https://github.com/Tchou/webpdf#readme"
+}
